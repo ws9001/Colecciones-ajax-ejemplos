@@ -1,0 +1,43 @@
+body{
+	width: 90%;
+	margin: 0 auto;
+	background-color: #9CF4DE
+}
+h1.center{
+	font-family: 'Metal Mania', cursive;
+	text-shadow: 0 0 3px white, 0 0 3px white, 0 0 3px white, 0 0 3px white, 0 0 6px black, 0 0 6px black;
+}
+h2{
+	font-family: 'impact', cursive;
+	text-shadow: 0 0 3px white, 0 0 3px white, 0 0 3px white, 0 0 3px #022104, 0 0 6px #022104, 0 0 6px #022104;
+	text-align: center;
+	color:;
+}
+img{
+	width: 90px;
+	height: 200px
+}
+.card .card-content{
+	padding: 10px 15px
+}
+.card .card-action {
+	padding: 5px 5px
+}
+p{
+	font-size: 12px;
+}
+strong{
+	width: 40px;
+	display: inline-block;
+	text-align: right;
+}
+i{
+	display: inline-block;
+	margin-left: 5px
+}
+audio{
+	width: 100%
+}
+.simbolos{
+	font-size: 0.7em;
+}
